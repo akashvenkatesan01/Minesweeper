@@ -1,7 +1,5 @@
 #include<iostream>
 #include<windows.h>
-#include<stdlib.h>
-#include<conio.h>
 using namespace std;
 
 void recursive(int ,int ,int ,int );
